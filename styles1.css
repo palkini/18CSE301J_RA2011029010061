@@ -1,0 +1,21 @@
+h1{
+  margin-right: 0;
+  font-size:5rem;
+  color: #006699;
+}
+h2{
+  text-decoration: underline;
+}
+*{
+  background-color: white;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+h3{
+  text-align: center;
+  color: #006699;
+}
